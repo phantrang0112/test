@@ -1,0 +1,9 @@
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\bin\Debug\netstandard2.0\BDH.deps.json
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\bin\Debug\netstandard2.0\BDH.dll
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\bin\Debug\netstandard2.0\BDH.pdb
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.csprojAssemblyReference.cache
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.AssemblyInfoInputs.cache
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.AssemblyInfo.cs
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.dll
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.pdb
+C:\Users\lequy\Desktop\WebBDH\WebBDH\BDH\obj\Debug\netstandard2.0\BDH.csproj.CoreCompileInputs.cache
